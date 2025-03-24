@@ -1,0 +1,30 @@
+2025/03/23-19:11:55.167 343 Reusing MANIFEST /home/mistergrow/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/23-19:11:55.168 343 Recovering log #71
+2025/03/23-19:11:55.171 343 Reusing old log /home/mistergrow/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000071.log 
+2025/03/23-21:18:48.899 344 Level-0 table #76: started
+2025/03/23-21:18:48.912 344 Level-0 table #76: 1445548 bytes OK
+2025/03/23-21:18:48.914 344 Delete type=0 #71
+2025/03/23-21:18:58.758 345 Compacting 1@1 + 1@2 files
+2025/03/23-21:18:58.769 345 Generated table #77@1: 373 keys, 67986 bytes
+2025/03/23-21:18:58.769 345 Compacted 1@1 + 1@2 files => 67986 bytes
+2025/03/23-21:18:58.770 345 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/23-21:18:58.770 345 Delete type=2 #76
+2025/03/23-21:18:58.770 345 Delete type=2 #73
+2025/03/23-21:20:52.525 344 Level-0 table #79: started
+2025/03/23-21:20:52.537 344 Level-0 table #79: 1053432 bytes OK
+2025/03/23-21:20:52.539 344 Delete type=0 #75
+2025/03/23-21:20:54.608 344 Compacting 1@1 + 1@2 files
+2025/03/23-21:20:54.619 344 Generated table #80@1: 400 keys, 85586 bytes
+2025/03/23-21:20:54.619 344 Compacted 1@1 + 1@2 files => 85586 bytes
+2025/03/23-21:20:54.620 344 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/23-21:20:54.621 344 Delete type=2 #79
+2025/03/23-21:20:54.621 344 Delete type=2 #77
+2025/03/23-21:43:57.639 344 Level-0 table #82: started
+2025/03/23-21:43:57.651 344 Level-0 table #82: 1015000 bytes OK
+2025/03/23-21:43:57.653 344 Delete type=0 #78
+2025/03/23-21:43:59.765 344 Compacting 1@1 + 1@2 files
+2025/03/23-21:43:59.775 344 Generated table #83@1: 420 keys, 80495 bytes
+2025/03/23-21:43:59.776 344 Compacted 1@1 + 1@2 files => 80495 bytes
+2025/03/23-21:43:59.777 344 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/23-21:43:59.777 344 Delete type=2 #82
+2025/03/23-21:43:59.777 344 Delete type=2 #80

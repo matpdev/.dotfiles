@@ -1,0 +1,25 @@
+2025/03/24-10:54:01.337 36d Reusing MANIFEST /home/mistergrow/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_hoppscotch.io_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/24-10:54:01.337 36d Recovering log #10
+2025/03/24-10:54:01.338 36d Reusing old log /home/mistergrow/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_hoppscotch.io_0.indexeddb.leveldb/000010.log 
+2025/03/24-10:54:01.422 36e Level-0 table #16: started
+2025/03/24-10:54:01.424 36e Level-0 table #16: 9732 bytes OK
+2025/03/24-10:54:01.426 36e Delete type=0 #10
+2025/03/24-10:54:01.426 36e Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/03/24-10:55:21.771 36e Compacting 1@1 + 1@2 files
+2025/03/24-10:55:21.780 36e Generated table #17@1: 41 keys, 3739 bytes
+2025/03/24-10:55:21.780 36e Compacted 1@1 + 1@2 files => 3739 bytes
+2025/03/24-10:55:21.781 36e compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/24-10:55:21.781 36e Delete type=2 #13
+2025/03/24-10:55:21.781 36e Delete type=2 #16
+2025/03/24-11:22:55.796 36e Level-0 table #19: started
+2025/03/24-11:22:55.798 36e Level-0 table #19: 6373 bytes OK
+2025/03/24-11:22:55.800 36e Delete type=0 #15
+2025/03/24-11:22:55.800 36e Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/03/24-11:22:55.800 36e Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x004\x002\x001\x009\x009\x003\x009\x009\x003\x002\x002\x003\x00:\x00w\x00e\x00b\x00:\x00e\x00c\x000\x00b\x00a\x00a\x008\x00e\x00e\x008\x00c\x000\x002\x00f\x00f\x00a\x001\x00f\x00c\x006\x00a\x002' @ 294 : 1
+2025/03/24-11:22:55.800 36e Compacting 1@1 + 1@2 files
+2025/03/24-11:22:55.801 36e Generated table #20@1: 36 keys, 3645 bytes
+2025/03/24-11:22:55.801 36e Compacted 1@1 + 1@2 files => 3645 bytes
+2025/03/24-11:22:55.802 36e compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/24-11:22:55.803 36e Delete type=2 #19
+2025/03/24-11:22:55.803 36e Delete type=2 #17
+2025/03/24-11:22:55.803 36e Manual compaction at level-1 from '\x00\x03\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x004\x002\x001\x009\x009\x003\x009\x009\x003\x002\x002\x003\x00:\x00w\x00e\x00b\x00:\x00e\x00c\x000\x00b\x00a\x00a\x008\x00e\x00e\x008\x00c\x000\x002\x00f\x00f\x00a\x001\x00f\x00c\x006\x00a\x002' @ 294 : 1 .. (end); will stop at (end)

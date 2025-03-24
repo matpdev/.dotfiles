@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "campaigns": [
+    {
+      "campaignId": "067bddbf-31eb-406e-b9e3-acb8f63c547d",
+      "logo": {
+        "imageUrl": "cb569da7-4497-45ca-b167-e6a5b063f7a7.png",
+        "destinationUrl": "https://www.pudgypop.com/signup?r=BAT",
+        "alt": "Pudgy Pop - Earn bonus rewards, play the pudgy penguin themed match-3 game now! - join Now",
+        "companyName": "Pudgy Pop"
+      },
+      "wallpapers": [
+        {
+          "imageUrl": "6bd72a68-26f6-4daf-a952-1086e82241eb.jpg",
+          "creativeInstanceId": "95dc7d04-5579-45fe-b885-a8178d3c80be",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          }
+        },
+        {
+          "imageUrl": "40214b87-45c5-4133-a771-01a6c1daf6ab.jpg",
+          "creativeInstanceId": "7f7478b0-3a97-448f-8993-009373eb52ea",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "493090e5-868b-42d8-9ec8-4a2924054eba.png",
+            "destinationUrl": "https://karate.com/app",
+            "alt": "Karate Combat - Play to win, never to lose with the Karate Combat app",
+            "companyName": "Karate Combat"
+          }
+        },
+        {
+          "imageUrl": "b3173e09-7452-47ec-809d-28843983c47e.jpg",
+          "creativeInstanceId": "51e132c3-3a3d-4e2f-be18-4c5f104d7d0a",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "29a3da8d-feb1-4190-8004-5c1d27c346f6.png",
+            "destinationUrl": "https://chomp.games/",
+            "alt": "CHOMP - Earn from your answers now",
+            "companyName": "CHOMP"
+          }
+        }
+      ]
+    }
+  ],
+  "campaigns2": [
+    {
+      "campaignId": "067bddbf-31eb-406e-b9e3-acb8f63c547d",
+      "logo": {
+        "imageUrl": "cb569da7-4497-45ca-b167-e6a5b063f7a7.png",
+        "destinationUrl": "https://www.pudgypop.com/signup?r=BAT",
+        "alt": "Pudgy Pop - Earn bonus rewards, play the pudgy penguin themed match-3 game now! - join Now",
+        "companyName": "Pudgy Pop"
+      },
+      "wallpapers": [
+        {
+          "imageUrl": "6bd72a68-26f6-4daf-a952-1086e82241eb.jpg",
+          "creativeInstanceId": "95dc7d04-5579-45fe-b885-a8178d3c80be",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          }
+        },
+        {
+          "imageUrl": "40214b87-45c5-4133-a771-01a6c1daf6ab.jpg",
+          "creativeInstanceId": "7f7478b0-3a97-448f-8993-009373eb52ea",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "493090e5-868b-42d8-9ec8-4a2924054eba.png",
+            "destinationUrl": "https://karate.com/app",
+            "alt": "Karate Combat - Play to win, never to lose with the Karate Combat app",
+            "companyName": "Karate Combat"
+          }
+        },
+        {
+          "imageUrl": "b3173e09-7452-47ec-809d-28843983c47e.jpg",
+          "creativeInstanceId": "51e132c3-3a3d-4e2f-be18-4c5f104d7d0a",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "29a3da8d-feb1-4190-8004-5c1d27c346f6.png",
+            "destinationUrl": "https://chomp.games/",
+            "alt": "CHOMP - Earn from your answers now",
+            "companyName": "CHOMP"
+          }
+        }
+      ]
+    }
+  ]
+}

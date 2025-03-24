@@ -1,0 +1,7 @@
+2025/03/22-07:45:59.481 342 Reusing MANIFEST /home/mistergrow/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_excalidraw.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/22-07:45:59.481 342 Recovering log #3
+2025/03/22-07:45:59.482 342 Reusing old log /home/mistergrow/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_excalidraw.com_0.indexeddb.leveldb/000003.log 
+2025/03/22-10:13:25.863 334 Level-0 table #5: started
+2025/03/22-10:13:25.864 334 Level-0 table #5: 7431 bytes OK
+2025/03/22-10:13:25.865 334 Delete type=0 #3
+2025/03/22-10:13:25.865 334 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

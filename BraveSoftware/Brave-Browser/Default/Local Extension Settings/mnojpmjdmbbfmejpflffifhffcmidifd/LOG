@@ -1,0 +1,102 @@
+2025/03/24-07:46:56.309 36d Reusing MANIFEST /home/mistergrow/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/MANIFEST-000001
+2025/03/24-07:46:56.309 36d Recovering log #365
+2025/03/24-07:46:56.326 36d Reusing old log /home/mistergrow/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/000365.log 
+2025/03/24-07:49:57.899 36e Level-0 table #369: started
+2025/03/24-07:49:57.911 36e Level-0 table #369: 319135 bytes OK
+2025/03/24-07:49:57.914 36e Delete type=0 #365
+2025/03/24-07:55:58.152 36e Level-0 table #371: started
+2025/03/24-07:55:58.158 36e Level-0 table #371: 317011 bytes OK
+2025/03/24-07:55:58.160 36e Delete type=0 #368
+2025/03/24-08:00:58.329 36e Level-0 table #373: started
+2025/03/24-08:00:58.339 36e Level-0 table #373: 317312 bytes OK
+2025/03/24-08:00:58.341 36e Delete type=0 #370
+2025/03/24-08:05:59.530 36e Compacting 3@0 + 1@1 files
+2025/03/24-08:05:59.547 36e Generated table #374@0: 38 keys, 67742 bytes
+2025/03/24-08:05:59.547 36e Compacted 3@0 + 1@1 files => 67742 bytes
+2025/03/24-08:05:59.549 36e compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/03/24-08:05:59.549 36e Delete type=2 #371
+2025/03/24-08:05:59.549 36e Delete type=2 #369
+2025/03/24-08:05:59.549 36e Delete type=2 #373
+2025/03/24-08:05:59.549 36e Delete type=2 #366
+2025/03/24-08:11:00.467 36e Level-0 table #376: started
+2025/03/24-08:11:00.480 36e Level-0 table #376: 319593 bytes OK
+2025/03/24-08:11:00.482 36e Delete type=0 #372
+2025/03/24-08:16:00.626 36e Level-0 table #378: started
+2025/03/24-08:16:00.632 36e Level-0 table #378: 317920 bytes OK
+2025/03/24-08:16:00.634 36e Delete type=0 #375
+2025/03/24-08:24:00.860 36e Compacting 2@0 + 1@1 files
+2025/03/24-08:24:00.868 36e Generated table #379@0: 49 keys, 67337 bytes
+2025/03/24-08:24:00.868 36e Compacted 2@0 + 1@1 files => 67337 bytes
+2025/03/24-08:24:00.869 36e compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/03/24-08:24:00.870 36e Delete type=2 #374
+2025/03/24-08:24:00.870 36e Delete type=2 #378
+2025/03/24-08:24:00.870 36e Delete type=2 #376
+2025/03/24-08:59:02.049 36e Compacting 1@1 + 1@2 files
+2025/03/24-08:59:02.058 36e Generated table #380@1: 13 keys, 66309 bytes
+2025/03/24-08:59:02.058 36e Compacted 1@1 + 1@2 files => 66309 bytes
+2025/03/24-08:59:02.059 36e compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/24-08:59:02.060 36e Delete type=2 #379
+2025/03/24-08:59:02.060 36e Delete type=2 #364
+2025/03/24-09:15:39.736 36e Level-0 table #382: started
+2025/03/24-09:15:39.748 36e Level-0 table #382: 319290 bytes OK
+2025/03/24-09:15:39.750 36e Delete type=0 #377
+2025/03/24-09:31:03.053 36e Compacting 1@1 + 1@2 files
+2025/03/24-09:31:03.066 36e Generated table #383@1: 7 keys, 64747 bytes
+2025/03/24-09:31:03.066 36e Compacted 1@1 + 1@2 files => 64747 bytes
+2025/03/24-09:31:03.067 36e compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/24-09:31:03.067 36e Delete type=2 #382
+2025/03/24-09:31:03.067 36e Delete type=2 #380
+2025/03/24-10:09:24.581 36e Level-0 table #385: started
+2025/03/24-10:09:24.586 36e Level-0 table #385: 334061 bytes OK
+2025/03/24-10:09:24.589 36e Delete type=0 #381
+2025/03/24-10:10:59.674 36e Level-0 table #387: started
+2025/03/24-10:10:59.683 36e Level-0 table #387: 321390 bytes OK
+2025/03/24-10:10:59.685 36e Delete type=0 #384
+2025/03/24-10:17:04.749 36e Compacting 1@0 + 1@1 files
+2025/03/24-10:17:04.763 36e Generated table #388@0: 35 keys, 72206 bytes
+2025/03/24-10:17:04.763 36e Compacted 1@0 + 1@1 files => 72206 bytes
+2025/03/24-10:17:04.764 36e compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/03/24-10:17:04.764 36e Delete type=2 #387
+2025/03/24-10:17:04.765 36e Delete type=2 #385
+2025/03/24-10:35:05.265 36e Compacting 1@1 + 1@2 files
+2025/03/24-10:35:05.274 36e Generated table #389@1: 25 keys, 72050 bytes
+2025/03/24-10:35:05.274 36e Compacted 1@1 + 1@2 files => 72050 bytes
+2025/03/24-10:35:05.275 36e compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/24-10:35:05.275 36e Delete type=2 #383
+2025/03/24-10:35:05.275 36e Delete type=2 #388
+2025/03/24-10:39:05.685 36e Level-0 table #391: started
+2025/03/24-10:39:05.694 36e Level-0 table #391: 322423 bytes OK
+2025/03/24-10:39:05.696 36e Delete type=0 #386
+2025/03/24-10:50:21.598 36e Compacting 1@1 + 1@2 files
+2025/03/24-10:50:21.610 36e Generated table #392@1: 22 keys, 71451 bytes
+2025/03/24-10:50:21.610 36e Compacted 1@1 + 1@2 files => 71451 bytes
+2025/03/24-10:50:21.611 36e compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/24-10:50:21.611 36e Delete type=2 #391
+2025/03/24-10:50:21.611 36e Delete type=2 #389
+2025/03/24-10:50:41.605 36e Level-0 table #394: started
+2025/03/24-10:50:41.615 36e Level-0 table #394: 322561 bytes OK
+2025/03/24-10:50:41.617 36e Delete type=0 #390
+2025/03/24-11:05:06.883 36e Compacting 1@1 + 1@2 files
+2025/03/24-11:05:06.895 36e Generated table #395@1: 22 keys, 70957 bytes
+2025/03/24-11:05:06.895 36e Compacted 1@1 + 1@2 files => 70957 bytes
+2025/03/24-11:05:06.896 36e compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/24-11:05:06.896 36e Delete type=2 #394
+2025/03/24-11:05:06.896 36e Delete type=2 #392
+2025/03/24-11:13:07.161 36e Level-0 table #397: started
+2025/03/24-11:13:07.174 36e Level-0 table #397: 323367 bytes OK
+2025/03/24-11:13:07.176 36e Delete type=0 #393
+2025/03/24-11:25:07.411 36e Compacting 1@1 + 1@2 files
+2025/03/24-11:25:07.425 36e Generated table #398@1: 18 keys, 68560 bytes
+2025/03/24-11:25:07.425 36e Compacted 1@1 + 1@2 files => 68560 bytes
+2025/03/24-11:25:07.426 36e compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/24-11:25:07.427 36e Delete type=2 #397
+2025/03/24-11:25:07.427 36e Delete type=2 #395
+2025/03/24-11:28:23.477 36e Level-0 table #400: started
+2025/03/24-11:28:23.486 36e Level-0 table #400: 323160 bytes OK
+2025/03/24-11:28:23.488 36e Delete type=0 #396
+2025/03/24-11:49:07.886 36e Compacting 1@1 + 1@2 files
+2025/03/24-11:49:07.899 36e Generated table #401@1: 16 keys, 67795 bytes
+2025/03/24-11:49:07.899 36e Compacted 1@1 + 1@2 files => 67795 bytes
+2025/03/24-11:49:07.900 36e compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/24-11:49:07.900 36e Delete type=2 #400
+2025/03/24-11:49:07.900 36e Delete type=2 #398

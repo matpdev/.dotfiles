@@ -1,0 +1,38 @@
+{
+   "action": {
+      "default_icon": "static_assets/dart_grey.png"
+   },
+   "background": {
+      "service_worker": "background.dart.js"
+   },
+   "commands": {
+      "copyAppId": {
+         "description": "Copy the app ID",
+         "suggestedKey": {
+            "default": "Ctrl+Shift+7",
+            "mac": "Command+Shift+7"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "js": [ "detector.dart.js", "copier.dart.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_end"
+   } ],
+   "devtools_page": "static_assets/devtools.html",
+   "externally_connectable": {
+      "ids": [ "nbkbficgbembimioedhceniahniffgpl" ],
+      "matches": [ "https://cider.corp.google.com/*", "https://cider-staging.corp.google.com/*", "https://cider-test.corp.google.com/*", "https://cider-v.corp.google.com/*", "https://cider-v-staging.corp.google.com/*", "https://cider-v-test.corp.google.com/*" ]
+   },
+   "host_permissions": [ "\u003Call_urls>" ],
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlmtdScNg/CiFFYzAqErvksKtitDnseFI/xnOe670a9WD3574DZSISABKydtFSqn2a913HmEoOnO5uKUPLALfxLYRrx375RjyIi4vv32b//LGleZh99dRL6g8nQXKhrBj/HHXpZHdoNaST3QcmnoDSxmysZS7KY7IPGxIHyHWEnR9d6oz3TCsyRJsDIfq+VkihUpsDz+YrXtj0wRtaGdub1gfSLZbVZYFuyro8XQLBZhayHkVDquQmmzeL8HvR0BWTV+rXY0k7J7ns8x9huWE2JXHChovwdbCbPkGuiEMtC4ZnBBxCaEPHMyz5uz46KLe1zSWr3hjitgQF0r9n02MOwIDAQAB",
+   "manifest_version": 3,
+   "name": "Dart Debug Extension",
+   "permissions": [ "debugger", "notifications", "storage", "webNavigation" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.1.4",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "debug_info.dart.js" ]
+   } ]
+}

@@ -1,0 +1,36 @@
+2025/03/24-07:46:56.078 4 Reusing MANIFEST /home/mistergrow/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
+2025/03/24-07:46:56.080 4 Recovering log #123
+2025/03/24-07:46:56.083 4 Reusing old log /home/mistergrow/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000123.log 
+2025/03/24-07:47:08.235 4 Level-0 table #127: started
+2025/03/24-07:47:08.239 4 Level-0 table #127: 158533 bytes OK
+2025/03/24-07:47:08.241 4 Delete type=0 #123
+2025/03/24-07:47:08.242 4 Compacting 4@0 + 1@1 files
+2025/03/24-07:47:08.253 4 Generated table #128@0: 1929 keys, 332115 bytes
+2025/03/24-07:47:08.253 4 Compacted 4@0 + 1@1 files => 332115 bytes
+2025/03/24-07:47:08.254 4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/03/24-07:47:08.255 4 Delete type=2 #116
+2025/03/24-07:47:08.255 4 Delete type=2 #124
+2025/03/24-07:47:08.255 4 Delete type=2 #127
+2025/03/24-07:47:08.255 4 Delete type=2 #122
+2025/03/24-07:47:08.255 4 Delete type=2 #119
+2025/03/24-09:16:51.004 4 Level-0 table #130: started
+2025/03/24-09:16:51.014 4 Level-0 table #130: 154955 bytes OK
+2025/03/24-09:16:51.016 4 Delete type=0 #126
+2025/03/24-09:33:06.088 5 Level-0 table #132: started
+2025/03/24-09:33:06.105 5 Level-0 table #132: 56521 bytes OK
+2025/03/24-09:33:06.108 5 Delete type=0 #129
+2025/03/24-10:44:56.470 4 Level-0 table #134: started
+2025/03/24-10:44:56.480 4 Level-0 table #134: 152721 bytes OK
+2025/03/24-10:44:56.482 4 Delete type=0 #131
+2025/03/24-12:04:26.084 5 Level-0 table #136: started
+2025/03/24-12:04:26.094 5 Level-0 table #136: 148282 bytes OK
+2025/03/24-12:04:26.096 5 Delete type=0 #133
+2025/03/24-12:04:26.097 5 Compacting 4@0 + 1@1 files
+2025/03/24-12:04:26.107 5 Generated table #137@0: 2098 keys, 825753 bytes
+2025/03/24-12:04:26.107 5 Compacted 4@0 + 1@1 files => 825753 bytes
+2025/03/24-12:04:26.109 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/03/24-12:04:26.109 5 Delete type=2 #130
+2025/03/24-12:04:26.110 5 Delete type=2 #134
+2025/03/24-12:04:26.110 5 Delete type=2 #136
+2025/03/24-12:04:26.110 5 Delete type=2 #128
+2025/03/24-12:04:26.110 5 Delete type=2 #132

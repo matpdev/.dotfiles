@@ -1,0 +1,6 @@
+2025/03/24-10:40:32.583 36d Creating DB /home/mistergrow/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_regex101.com_0.indexeddb.leveldb since it was missing.
+2025/03/24-10:40:32.586 36d Reusing MANIFEST /home/mistergrow/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_regex101.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/24-10:41:53.948 36e Level-0 table #5: started
+2025/03/24-10:41:53.950 36e Level-0 table #5: 1809 bytes OK
+2025/03/24-10:41:53.951 36e Delete type=0 #3
+2025/03/24-10:41:53.951 36e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

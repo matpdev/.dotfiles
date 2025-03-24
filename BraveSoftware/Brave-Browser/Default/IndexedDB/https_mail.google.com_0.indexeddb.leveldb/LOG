@@ -1,0 +1,9 @@
+2025/03/23-20:18:33.315 343 Reusing MANIFEST /home/mistergrow/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/23-20:18:33.315 343 Recovering log #7
+2025/03/23-20:18:33.316 343 Reusing old log /home/mistergrow/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000007.log 
+2025/03/23-20:18:35.471 343 Compacting 1@1 + 1@2 files
+2025/03/23-20:18:35.486 343 Generated table #10@1: 106 keys, 189385 bytes
+2025/03/23-20:18:35.486 343 Compacted 1@1 + 1@2 files => 189385 bytes
+2025/03/23-20:18:35.488 343 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/23-20:18:35.488 343 Delete type=2 #8
+2025/03/23-20:18:35.488 343 Delete type=2 #5

@@ -1,0 +1,51 @@
+2025/03/24-07:46:55.661 4 Reusing MANIFEST /home/mistergrow/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2025/03/24-07:46:55.680 4 Recovering log #222
+2025/03/24-07:46:55.683 4 Reusing old log /home/mistergrow/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000222.log 
+2025/03/24-07:47:08.191 5 Level-0 table #227: started
+2025/03/24-07:47:08.203 5 Level-0 table #227: 178275 bytes OK
+2025/03/24-07:47:08.205 5 Delete type=0 #222
+2025/03/24-09:16:56.706 5 Level-0 table #229: started
+2025/03/24-09:16:56.716 5 Level-0 table #229: 156172 bytes OK
+2025/03/24-09:16:56.718 5 Delete type=0 #226
+2025/03/24-09:37:27.788 5 Level-0 table #231: started
+2025/03/24-09:37:27.794 5 Level-0 table #231: 15674 bytes OK
+2025/03/24-09:37:27.796 5 Delete type=0 #228
+2025/03/24-10:05:03.274 5 Level-0 table #233: started
+2025/03/24-10:05:03.283 5 Level-0 table #233: 19642 bytes OK
+2025/03/24-10:05:03.286 5 Delete type=0 #230
+2025/03/24-10:05:03.286 5 Compacting 4@0 + 1@1 files
+2025/03/24-10:05:03.295 5 Generated table #234@0: 872 keys, 504989 bytes
+2025/03/24-10:05:03.295 5 Compacted 4@0 + 1@1 files => 504989 bytes
+2025/03/24-10:05:03.297 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/03/24-10:05:03.297 5 Delete type=2 #224
+2025/03/24-10:05:03.297 5 Delete type=2 #233
+2025/03/24-10:05:03.297 5 Delete type=2 #231
+2025/03/24-10:05:03.297 5 Delete type=2 #229
+2025/03/24-10:05:03.297 5 Delete type=2 #227
+2025/03/24-10:08:10.417 5 Level-0 table #236: started
+2025/03/24-10:08:10.424 5 Level-0 table #236: 19570 bytes OK
+2025/03/24-10:08:10.426 5 Delete type=0 #232
+2025/03/24-10:40:37.439 5 Level-0 table #238: started
+2025/03/24-10:40:37.450 5 Level-0 table #238: 155734 bytes OK
+2025/03/24-10:40:37.454 5 Delete type=0 #235
+2025/03/24-10:52:18.108 5 Level-0 table #240: started
+2025/03/24-10:52:18.117 5 Level-0 table #240: 20487 bytes OK
+2025/03/24-10:52:18.119 5 Delete type=0 #237
+2025/03/24-10:55:00.830 5 Level-0 table #242: started
+2025/03/24-10:55:00.861 5 Level-0 table #242: 32663 bytes OK
+2025/03/24-10:55:00.864 5 Delete type=0 #239
+2025/03/24-10:55:00.864 5 Compacting 4@0 + 1@1 files
+2025/03/24-10:55:00.874 5 Generated table #243@0: 873 keys, 506051 bytes
+2025/03/24-10:55:00.874 5 Compacted 4@0 + 1@1 files => 506051 bytes
+2025/03/24-10:55:00.875 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/03/24-10:55:00.876 5 Delete type=2 #240
+2025/03/24-10:55:00.876 5 Delete type=2 #242
+2025/03/24-10:55:00.876 5 Delete type=2 #234
+2025/03/24-10:55:00.876 5 Delete type=2 #238
+2025/03/24-10:55:00.876 5 Delete type=2 #236
+2025/03/24-12:04:31.698 5 Level-0 table #245: started
+2025/03/24-12:04:31.710 5 Level-0 table #245: 151848 bytes OK
+2025/03/24-12:04:31.712 5 Delete type=0 #241
+2025/03/24-12:57:27.883 5 Level-0 table #247: started
+2025/03/24-12:57:27.894 5 Level-0 table #247: 14566 bytes OK
+2025/03/24-12:57:27.896 5 Delete type=0 #244

@@ -1,0 +1,7 @@
+2025/03/23-20:19:22.512 343 Reusing MANIFEST /home/mistergrow/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/23-20:19:22.512 343 Recovering log #4
+2025/03/23-20:19:22.512 343 Reusing old log /home/mistergrow/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/000004.log 
+2025/03/23-20:19:25.045 343 Level-0 table #8: started
+2025/03/23-20:19:25.046 343 Level-0 table #8: 7741 bytes OK
+2025/03/23-20:19:25.048 343 Delete type=0 #4
+2025/03/23-20:19:25.048 343 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
